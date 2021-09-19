@@ -1,2 +1,2 @@
-# harwa
-soshyan
+
+print('waz jeaa koni')
