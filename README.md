@@ -1,2 +1,0 @@
-
-print('waz jeaa koni')
